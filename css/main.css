@@ -1,0 +1,14 @@
+.nav-menu {
+  text-align : right;
+  text-decoration : none;
+}
+.nav-spacing {
+  text-decoration : none;
+  margin : 0 0 0 10px;
+}
+.image-link {
+  text-decoration: none;
+}
+td {
+  padding: 10px;
+}
