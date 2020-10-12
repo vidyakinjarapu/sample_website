@@ -12,3 +12,19 @@
 td {
   padding: 10px;
 }
+.index-div {
+  width : 500px;
+  margin : 20px auto;
+  background-color:#f2f5dc;
+}
+.tags-div {
+  width : 800px;
+  margin : 20px auto;
+  background-color:#f2f5dc;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
